@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samihassan686-v)](https://git.io/streak-stats)
+
 <!--
 **samihassan686-v/samihassan686-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
